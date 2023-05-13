@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jiXVhW8tY6qLbxqEnO9JCWrJSj5h/BOWYldyPQ51Ra2bEau5oJ5tRYQo7ZpdQKrW0NXAyeY1LD9wdtIBFSw+g==",
+  "success": true,
+  "projectFilePath": "D:\\MY PROJECTS\\ENCRYPTOOL\\Encrypt_Decrypt_Tool\\Encrypt_Decrypt_Tool\\Encrypt_Decrypt_Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
